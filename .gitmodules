@@ -4,3 +4,6 @@
 [submodule "motion-application"]
 	path = motion-application
 	url = https://github.com/peitaosu/motion-application.git
+[submodule "motion-tools"]
+	path = motion-tools
+	url = https://github.com/peitaosu/motion-tools.git
