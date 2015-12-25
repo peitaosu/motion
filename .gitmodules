@@ -1,3 +1,6 @@
 [submodule "motion-leap"]
 	path = motion-leap
 	url = https://github.com/peitaosu/motion-leap
+[submodule "motion-application"]
+	path = motion-application
+	url = https://github.com/peitaosu/motion-application.git
